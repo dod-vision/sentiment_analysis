@@ -1,6 +1,6 @@
 # sentiment_analysis
 
-<b>Instructions</b>
+###Instructions
 <b>Run real-time emotion demo:</b>
 python3 video_emotion_color_demo.py
 
