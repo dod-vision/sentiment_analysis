@@ -1,13 +1,13 @@
 # sentiment_analysis
 
 <b>REQUIREMENTS</b>
- <p>keras</p>
- <p>tensorflow</p>
- <p>pandas</p>
- <p>numpy</p>
- <p>h5py</p>
-<p>statistics</p>
-<p>opencv</p>
+ <p>###keras</p>
+ <p>###tensorflow</p>
+ <p>###pandas</p>
+ <p>###numpy</p>
+ <p>###h5py</p>
+<p>##statistics</p>
+<p>###opencv</p>
 
 <b>Instructions</b>
 <p>
