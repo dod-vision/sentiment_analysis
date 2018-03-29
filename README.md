@@ -1,6 +1,6 @@
 # sentiment_analysis
 
-<b>REQUIREMENTS<b>
+<b>REQUIREMENTS</b>
  <p>keras</p>
  <p>tensorflow</p>
  <p>pandas</p>
