@@ -27,8 +27,6 @@ python3 image_gradcam_demo.py
  </p>
 <p>
 python3 image_emotion_gender_demo.py <image_path>
- e.g.
-python3 image_emotion_gender_demo.py ../images/test_image.jpg
 <p>
  
  <b>Running with Docker</b>
