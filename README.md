@@ -22,7 +22,7 @@ python3 image_emotion_gender_demo.py <image_path>
 python3 image_emotion_gender_demo.py ../images/test_image.jpg
 <p>
  
- <b>Running with Docker<b/b>
+ <b>Running with Docker</b>
  <p>With a few steps one can get its own face classification and detection running. Follow the commands below:</p>
  <p>docker pull ekholabs/face-classifier</p>
 <p>docker run -d -p 8084:8084 --name=face-classifier ekholabs/face-classifier</p>
@@ -31,7 +31,10 @@ python3 image_emotion_gender_demo.py ../images/test_image.jpg
 <b>To train previous/new models for emotion classification:</b>
 <p>Download the fer2013.tar.gz (https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data)</p>
 
-<p>Move the downloaded file to the datasets directory inside this repository.
- Run the train_emotion_classification.py file
-python3 train_emotion_classifier.py
-</p>
+<p>Move the downloaded file to the datasets directory inside this repository.</p>
+<p> Run the train_emotion_classification.py file</p>
+<p>   python3 train_emotion_classifier.py</p>
+
+
+
+
